@@ -1,3 +1,1 @@
-# test1
-first repository
-gfgfgfgfgrfgrgrgr
+#include using namespace std; int main() { cout<<"gwj!"<<endl
